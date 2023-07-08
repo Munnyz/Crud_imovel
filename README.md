@@ -12,6 +12,6 @@ O Banco de dados já na pasta, então abra o projeto no Visual Studio e:
 
 4- Clique com botão direito e pegue a "Cadeia de Conexão" que fica em "Propriedades";
 
-5 - Copie e cole nas strings de Conexao do projeto, no imovel.cs e CadEnderecos.cs
+5 - Copie e cole nas strings de Conexão(SqlConnection) do projeto, no imovel.cs e CadEnderecos.cs
 
 O nome do banco = Netimoveis.mdf, são 2 tabelas Utilizadas.  Uma com foreign key e outra principal.
